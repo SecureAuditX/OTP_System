@@ -1,0 +1,9 @@
+bcrypt==4.3.0
+pyotp
+mysql-connector-python
+bcrypt
+stdiomask
+re
+hashlib
+smtplib
+datatime
