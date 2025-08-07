@@ -38,7 +38,7 @@ Whether you're:
 
 > *Below: OTP verification screen in CLI*
 
-![OTP CLI Screenshot](project-screenshot.png)
+![OTP CLI Screenshot](https://github.com/SecureAuditX/OTP_System/blob/daa7b87b239a34e35c131d2fd71ff97e18e5a766/OTP%20CLI.png)
 
 ---
 
