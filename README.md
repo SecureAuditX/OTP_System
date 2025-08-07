@@ -2,7 +2,7 @@
 
 A **complete command-line authentication system** featuring secure password hashing, email-based OTP verification, SQL injection protection, and modern Python standards. Perfect for internal tools, admin portals, or learning about secure authentication systems.
 
-![OTP CLI Auth System](project-screenshot.png)
+![OTP CLI Auth System](https://github.com/SecureAuditX/OTP_System/blob/a74078a4fc4b4f6f69fa125f964707a678871189/Auth%20screenshot.png)
 
 ---
 
